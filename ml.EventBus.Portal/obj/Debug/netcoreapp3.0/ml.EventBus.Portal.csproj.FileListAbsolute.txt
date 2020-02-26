@@ -1,0 +1,15 @@
+D:\project\github\eventbus\ml.EventBus.Portal\bin\Debug\netcoreapp3.0\ml.EventBus.Portal.exe
+D:\project\github\eventbus\ml.EventBus.Portal\bin\Debug\netcoreapp3.0\ml.EventBus.Portal.deps.json
+D:\project\github\eventbus\ml.EventBus.Portal\bin\Debug\netcoreapp3.0\ml.EventBus.Portal.runtimeconfig.json
+D:\project\github\eventbus\ml.EventBus.Portal\bin\Debug\netcoreapp3.0\ml.EventBus.Portal.runtimeconfig.dev.json
+D:\project\github\eventbus\ml.EventBus.Portal\bin\Debug\netcoreapp3.0\ml.EventBus.Portal.dll
+D:\project\github\eventbus\ml.EventBus.Portal\bin\Debug\netcoreapp3.0\ml.EventBus.Portal.pdb
+D:\project\github\eventbus\ml.EventBus.Portal\bin\Debug\netcoreapp3.0\Autofac.dll
+D:\project\github\eventbus\ml.EventBus.Portal\bin\Debug\netcoreapp3.0\ml.EventBus.dll
+D:\project\github\eventbus\ml.EventBus.Portal\bin\Debug\netcoreapp3.0\ml.EventBus.pdb
+D:\project\github\eventbus\ml.EventBus.Portal\obj\Debug\netcoreapp3.0\ml.EventBus.Portal.csprojAssemblyReference.cache
+D:\project\github\eventbus\ml.EventBus.Portal\obj\Debug\netcoreapp3.0\ml.EventBus.Portal.AssemblyInfoInputs.cache
+D:\project\github\eventbus\ml.EventBus.Portal\obj\Debug\netcoreapp3.0\ml.EventBus.Portal.AssemblyInfo.cs
+D:\project\github\eventbus\ml.EventBus.Portal\obj\Debug\netcoreapp3.0\ml.EventBus.Portal.csproj.CopyComplete
+D:\project\github\eventbus\ml.EventBus.Portal\obj\Debug\netcoreapp3.0\ml.EventBus.Portal.dll
+D:\project\github\eventbus\ml.EventBus.Portal\obj\Debug\netcoreapp3.0\ml.EventBus.Portal.pdb

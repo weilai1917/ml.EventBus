@@ -1,2 +1,1 @@
-# ml.EventBus
-EventBusTest
+# 理解EventBus在整个项目中的作用

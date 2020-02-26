@@ -1,0 +1,5 @@
+D:\project\github\eventbus\ml.EventBus\obj\Debug\netcoreapp3.0\ml.EventBus.Demo.csprojAssemblyReference.cache
+D:\project\github\eventbus\ml.EventBus\obj\Debug\netcoreapp3.0\ml.EventBus.Demo.AssemblyInfoInputs.cache
+D:\project\github\eventbus\ml.EventBus\obj\Debug\netcoreapp3.0\ml.EventBus.Demo.AssemblyInfo.cs
+D:\project\github\eventbus\ml.EventBus\obj\Debug\netcoreapp3.0\ml.EventBus.Demo.dll
+D:\project\github\eventbus\ml.EventBus\obj\Debug\netcoreapp3.0\ml.EventBus.Demo.pdb
